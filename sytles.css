@@ -1,0 +1,136 @@
+h2{
+    font-family: 'Mountains of Christmas', cursiv
+}
+h3{
+    font-family: 'Mountains of Christmas', cursiv
+}
+
+.intro{font-size: 150%;
+    font-family: 'Mountains of Christmas', cursive
+}
+.name{ font-size: 330.5%;
+    margin: 0 auto 0 auto;
+    width: 750px;
+    font-family: 'Mountains of Christmas', cursive;
+    color: green;
+    
+}
+body{font-family: 'Handlee', cursive;
+    margin: 0;
+  font-size: x-large;
+  margin: 0 0 0 0;
+}
+.sky{
+    padding-top: 100px;
+    text-align: center;
+    background-color: #DEEDF0;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+     }
+
+.land{
+    text-align: center;
+    background-color:#CAF7E3;
+    position: relative;
+}    
+.water{
+    background-color: #558776;
+    margin: 0 0 0 0;
+ padding: 50px 0 20px 0;
+} 
+
+#bcloud{
+    position:absolute;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+}
+#tcloud{ 
+    position: relative;
+    left: 1000px;
+    display: block;
+}
+.robot{
+    height: 100px;
+    width: 100px;
+    
+}
+.dance{
+    height: 150px;
+    width: 150px;
+    
+}
+.music{
+    height: 100px;
+    width: 100px;
+}
+.book{
+    height: 100px;
+    width: 100px;
+}
+.di{
+    color: 	#9c1203;
+}
+.vya{
+    color: #e3a000;
+}
+.pan{
+    color: #033807;
+}
+.cho{
+    color: #00165e;
+}
+.ri{
+    color: #2d004d;
+}
+.BUTTON_VWB {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #030404;
+    font-family: Georgia;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 19px;
+    background-color: #E6C4C0;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    border: double #24282D 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 25px;
+ }
+ 
+ .BUTTON_VWB:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #558776, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .cop{
+     margin: 0 0 0 0;
+ }
+ a{
+    text-decoration: ;
+ }
+ a{
+     color:ivory;
+     font-family: 'Handlee', cursive;
+     margin: 10px;
+     text-decoration: none;
+ }
+ a:hover{
+     color:#5586 ;
+ }
